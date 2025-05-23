@@ -19,13 +19,13 @@ VALUES
 
 INSERT INTO Orders(Product_ID, Orders_Quantity, Orders_Type, Orders_Date)
 VALUES
-(1, 5, 'OUT', '2025-05-01'),   -- 5 laptopuri vândute
-(2, 10, 'IN', '2025-05-03'),   -- 10 monitoare aprovizionate
-(3, 8, 'OUT', '2025-05-04'),   -- 8 mouse-uri vândute
-(4, 20, 'IN', '2025-05-06'),   -- 20 tastaturi adăugate în stoc
-(1, 7, 'IN', '2025-05-08'),    -- 7 laptopuri aprovizionate
-(5, 2, 'OUT', '2025-05-10'),   -- 2 routere vândute
-(6, 4, 'OUT', '2025-05-12');   -- 4 imprimante vândute
+(1, 5, 'OUT', '2025-05-01'),   -- 5 laptops sell
+(2, 10, 'IN', '2025-05-03'),   -- 10 monitors buy
+(3, 8, 'OUT', '2025-05-04'),   -- 8 mouses sell
+(4, 20, 'IN', '2025-05-06'),   -- 20 keyboards buy
+(1, 7, 'IN', '2025-05-08'),    -- 7 laptops buy
+(5, 2, 'OUT', '2025-05-10'),   -- 2 routers sells
+(6, 4, 'OUT', '2025-05-12');   -- 4 printers sells
 
 
 INSERT INTO Users(Users_Name, Users_Role)
