@@ -4,7 +4,7 @@ This project simulates a real-world inventory management system using SQL. It is
 
 
 
-## 🧱 Database Schema
+##  Database Schema
 
 ### 1. Products
 - `Product_ID` (Primary Key)
@@ -33,7 +33,7 @@ This project simulates a real-world inventory management system using SQL. It is
 
 ---
 
-## 💡 Key Features
+## Key Features
 
 - Tracks how many products were sold or supplied
 - Calculates estimated revenue based on sales
@@ -43,7 +43,7 @@ This project simulates a real-world inventory management system using SQL. It is
 
 ---
 
-## 🧠 Example Queries
+## Example Queries
 
 ### ✔️ Products that were never sold:
 ```sql
